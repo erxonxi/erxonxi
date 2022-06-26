@@ -1,6 +1,6 @@
 # Rubén Ruiz Pedreira
 
-Hola 👋, soy Rubén y este es mi repositorio. En él podréis encontrar:
+Hola 👋, soy Rubén y este es mi repositorio donde podréis encontrar:
 - Proyectos Personales
 - Demos de Apps, con sus respectivas documentaciones
 
